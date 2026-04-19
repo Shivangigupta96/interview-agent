@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory.jsx'
 import InterviewReport from './pages/InterviewReport.jsx'
 
 
-export const ServerUrl ="http://localhost:8000"
+export const ServerUrl ="https://interview-agent-v48d.onrender.com"
 function App(){
 
 const dispatch = useDispatch()
